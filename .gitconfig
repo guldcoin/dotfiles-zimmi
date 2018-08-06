@@ -1,0 +1,7 @@
+[user]
+	username = zimmi
+[commit]
+	gpgsign = true
+[aliases]
+	github = zimmiglobal
+	bitbucket = zimmiglobal
